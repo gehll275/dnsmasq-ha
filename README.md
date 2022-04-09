@@ -1,6 +1,5 @@
 # dnsmasq-ha
-==========
-dnsmasq failover (keepalived)
+dnsmasq failover utilizing keepalvied.
 
 This project is a clone of (https://github.com/asir/dnsmasq-ha)[https://github.com/dnsmasq-ha].
 
