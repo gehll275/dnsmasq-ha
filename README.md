@@ -1,7 +1,7 @@
 # dnsmasq-ha
 dnsmasq failover utilizing keepalvied.
 
-This project is a clone of (https://github.com/asir/dnsmasq-ha)[https://github.com/dnsmasq-ha].
+This project is a clone of [https://github.com/asir/dnsmasq-ha](https://github.com/dnsmasq-ha).
 
 # Overview
 This project help you to deploy dnsmasq With HA and automatic recovery. A basic cluster is a dnsmasq master and a dnsmasq backup. This is only for Ubuntu Server. *It has been updated to work in Python3.*
